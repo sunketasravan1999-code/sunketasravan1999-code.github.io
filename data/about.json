@@ -1,0 +1,13 @@
+{
+  "heading": "$ cat about.md",
+  "bio": [
+    "I'm a passionate developer with expertise in building scalable web applications and distributed systems. I believe in clean code, thoughtful architecture, and continuous learning.",
+    "With experience across the full stack, I bring a unique perspective to every project — combining technical depth with a focus on user experience and performance."
+  ],
+  "highlights": [
+    { "label": "Years Experience", "value": "5+" },
+    { "label": "Projects Completed", "value": "12+" },
+    { "label": "Technologies", "value": "20+" }
+  ],
+  "currentFocus": "Building high-performance web applications with modern tooling"
+}

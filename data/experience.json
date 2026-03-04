@@ -1,0 +1,37 @@
+{
+  "heading": "$ ps aux --sort=start_time",
+  "positions": [
+    {
+      "pid": "1337",
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "status": "RUNNING",
+      "description": "Leading development of microservices architecture serving 1M+ users. Migrated monolith to event-driven system reducing latency by 40%.",
+      "achievements": [
+        "Architected real-time notification system handling 50K messages/min",
+        "Reduced CI/CD pipeline time from 45min to 12min",
+        "Mentored team of 4 junior developers"
+      ],
+      "technologies": ["Go", "PostgreSQL", "Kafka", "Kubernetes"]
+    },
+    {
+      "pid": "1024",
+      "company": "StartupXYZ",
+      "title": "Full-Stack Developer",
+      "location": "Remote",
+      "startDate": "2020-03",
+      "endDate": "2021-12",
+      "status": "STOPPED",
+      "description": "Built and maintained the core product from prototype to production. Implemented real-time collaboration features and payment processing.",
+      "achievements": [
+        "Shipped MVP in 8 weeks, acquiring 500 beta users",
+        "Built real-time collaborative editing with WebSocket",
+        "Integrated Stripe payment processing handling $200K MRR"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "Redis"]
+    }
+  ]
+}

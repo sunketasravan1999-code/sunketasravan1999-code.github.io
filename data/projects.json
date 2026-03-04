@@ -1,0 +1,38 @@
+{
+  "heading": "$ find ~/projects -type d -maxdepth 1",
+  "projects": [
+    {
+      "name": "cloud-deploy-cli",
+      "description": "A CLI tool for deploying containerized applications to multiple cloud providers with a single command.",
+      "technologies": ["Go", "Docker", "AWS", "GCP"],
+      "stars": 142,
+      "forks": 23,
+      "language": "Go",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/janedoe/cloud-deploy-cli",
+      "isNew": true
+    },
+    {
+      "name": "realtime-collab",
+      "description": "Real-time collaborative document editor with conflict resolution using CRDTs.",
+      "technologies": ["React", "TypeScript", "WebSocket", "Y.js"],
+      "stars": 89,
+      "forks": 12,
+      "language": "TypeScript",
+      "liveUrl": "https://collab.example.com",
+      "githubUrl": "https://github.com/janedoe/realtime-collab",
+      "isNew": false
+    },
+    {
+      "name": "ml-pipeline",
+      "description": "Automated ML pipeline for training, evaluating, and deploying models with experiment tracking.",
+      "technologies": ["Python", "PyTorch", "MLflow", "Docker"],
+      "stars": 56,
+      "forks": 8,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/janedoe/ml-pipeline",
+      "isNew": false
+    }
+  ]
+}

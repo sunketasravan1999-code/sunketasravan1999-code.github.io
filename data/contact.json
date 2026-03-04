@@ -1,0 +1,13 @@
+{
+  "heading": "$ mail -s 'Hello' visitor@portfolio",
+  "subheading": "I'm always interested in hearing about new projects and opportunities. Let's connect.",
+  "email": "jane@example.com",
+  "phone": "",
+  "location": "San Francisco, CA",
+  "availability": "Open to opportunities",
+  "socialLinks": {
+    "github": "https://github.com/janedoe",
+    "linkedin": "https://linkedin.com/in/janedoe"
+  },
+  "formAction": ""
+}

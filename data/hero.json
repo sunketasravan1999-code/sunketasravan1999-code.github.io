@@ -1,0 +1,37 @@
+{
+  "asciiName": [
+    "     _                     ____             ",
+    "    | | __ _ _ __   ___   |  _ \\  ___   ___ ",
+    "    | |/ _` | '_ \\ / _ \\  | | | |/ _ \\ / _ \\",
+    " _  | | (_| | | | |  __/  | |_| | (_) |  __/",
+    "(_) |_|\\__,_|_| |_|\\___|  |____/ \\___/ \\___|"
+  ],
+  "name": "Jane Doe",
+  "tagline": "Available for work",
+  "roles": [
+    "Full-Stack Developer",
+    "Backend Engineer",
+    "Cloud Architect",
+    "Open Source Contributor"
+  ],
+  "bootSequence": [
+    "[OK] Loading kernel modules...",
+    "[OK] Initializing network interfaces...",
+    "[OK] Mounting filesystems...",
+    "[OK] Starting SSH daemon...",
+    "[OK] Loading portfolio data...",
+    "[OK] System ready."
+  ],
+  "techTags": ["Python", "TypeScript", "React", "Node.js", "AWS", "Docker"],
+  "socialLinks": [
+    { "label": "GitHub", "url": "https://github.com/janedoe", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/janedoe", "icon": "linkedin" },
+    { "label": "Email", "url": "mailto:jane@example.com", "icon": "email" }
+  ],
+  "resumeUrl": "",
+  "stats": {
+    "experience": "5+ years",
+    "projects": 12,
+    "commits": "2,400+"
+  }
+}

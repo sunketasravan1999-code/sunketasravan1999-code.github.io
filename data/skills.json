@@ -1,0 +1,31 @@
+{
+  "heading": "$ ls -la skills/",
+  "categories": [
+    {
+      "name": "languages",
+      "permissions": "drwxr-xr-x",
+      "items": ["JavaScript", "TypeScript", "Python", "Go", "Rust", "SQL"]
+    },
+    {
+      "name": "frameworks",
+      "permissions": "drwxr-xr-x",
+      "items": ["React", "Next.js", "Node.js", "Express", "FastAPI", "Django"]
+    },
+    {
+      "name": "databases",
+      "permissions": "drwxr-xr-x",
+      "items": ["PostgreSQL", "MongoDB", "Redis", "DynamoDB", "Elasticsearch"]
+    },
+    {
+      "name": "devops",
+      "permissions": "drwxr-xr-x",
+      "items": ["Docker", "Kubernetes", "AWS", "Terraform", "GitHub Actions", "Nginx"]
+    },
+    {
+      "name": "tools",
+      "permissions": "drwxr-xr-x",
+      "items": ["Git", "Linux", "Vim", "Figma", "Jira", "Datadog"]
+    }
+  ],
+  "githubUsername": ""
+}

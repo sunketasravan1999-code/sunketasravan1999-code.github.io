@@ -1,0 +1,27 @@
+{
+  "heading": "$ cat /var/log/education.log",
+  "entries": [
+    {
+      "institution": "University of Technology",
+      "degree": "Master of Science",
+      "field": "Computer Science",
+      "startDate": "2018",
+      "endDate": "2020",
+      "gpa": "3.9",
+      "honors": ["Magna Cum Laude", "Dean's List"]
+    },
+    {
+      "institution": "State University",
+      "degree": "Bachelor of Science",
+      "field": "Software Engineering",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "3.7",
+      "honors": ["Honors Program"]
+    }
+  ],
+  "certifications": [
+    "AWS Solutions Architect - Professional",
+    "Google Cloud Professional Data Engineer"
+  ]
+}

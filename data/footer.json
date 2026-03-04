@@ -1,0 +1,10 @@
+{
+  "copyright": "Jane Doe",
+  "year": "2026",
+  "tagline": "Built with vanilla HTML/CSS/JS. No frameworks harmed.",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/janedoe", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/janedoe", "icon": "linkedin" },
+    { "label": "Email", "url": "mailto:jane@example.com", "icon": "email" }
+  ]
+}
