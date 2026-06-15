@@ -2,30 +2,35 @@
   "heading": "$ ls -la skills/",
   "categories": [
     {
-      "name": "languages",
+      "name": "core_analytics",
       "permissions": "drwxr-xr-x",
-      "items": ["JavaScript", "TypeScript", "Python", "Go", "Rust", "SQL"]
+      "items": ["SQL", "Advanced SQL", "Python (Pandas, NumPy)", "Product Analytics", "User Behavior Analytics", "Engagement Analytics"]
     },
     {
-      "name": "frameworks",
+      "name": "experimentation",
       "permissions": "drwxr-xr-x",
-      "items": ["React", "Next.js", "Node.js", "Express", "FastAPI", "Django"]
+      "items": ["A/B Testing", "Experiment Design", "Hypothesis Testing", "Causal Analysis", "Metric Development", "Statistical Analysis"]
     },
     {
-      "name": "databases",
+      "name": "growth_analytics",
       "permissions": "drwxr-xr-x",
-      "items": ["PostgreSQL", "MongoDB", "Redis", "DynamoDB", "Elasticsearch"]
+      "items": ["Retention Analysis", "Funnel Analysis", "Cohort Analysis", "KPI Development", "Customer Analytics", "Predictive Analytics"]
     },
     {
-      "name": "devops",
+      "name": "visualization_bi",
       "permissions": "drwxr-xr-x",
-      "items": ["Docker", "Kubernetes", "AWS", "Terraform", "GitHub Actions", "Nginx"]
+      "items": ["Tableau", "Power BI", "Dashboard Development", "KPI Dashboards", "Executive Reporting", "Automated Reporting"]
     },
     {
-      "name": "tools",
+      "name": "data_engineering",
       "permissions": "drwxr-xr-x",
-      "items": ["Git", "Linux", "Vim", "Figma", "Jira", "Datadog"]
+      "items": ["Data Modeling", "ETL", "Data Pipelines", "Data Warehousing", "Feature Engineering", "Query Optimization"]
+    },
+    {
+      "name": "forecasting_ops",
+      "permissions": "drwxr-xr-x",
+      "items": ["Demand Forecasting", "Inventory Analytics", "Supply Chain Analytics", "Forecast Performance Analysis", "Operations Analytics"]
     }
   ],
-  "githubUsername": ""
+  "githubUsername": "sunketasravan1999-code"
 }

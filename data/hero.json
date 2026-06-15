@@ -1,37 +1,43 @@
 {
   "asciiName": [
-    "     _                     ____             ",
-    "    | | __ _ _ __   ___   |  _ \\  ___   ___ ",
-    "    | |/ _` | '_ \\ / _ \\  | | | |/ _ \\ / _ \\",
-    " _  | | (_| | | | |  __/  | |_| | (_) |  __/",
-    "(_) |_|\\__,_|_| |_|\\___|  |____/ \\___/ \\___|"
+    " ____  ____      _    __     ___    _   _ ",
+    "/ ___||  _ \\    / \\   \\ \\   / / \\  | \\ | |",
+    "\\___ \\| |_) |  / _ \\   \\ \\ / / _ \\ |  \\| |",
+    " ___) |  _ <  / ___ \\   \\ V / ___ \\| |\\  |",
+    "|____/|_| \\_\\/_/   \\_\\   \\_/_/   \\_\\_| \\_|"
   ],
-  "name": "Jane Doe",
-  "tagline": "Available for work",
+  "name": "Sravan Sunketa",
+  "tagline": "Open to opportunities",
   "roles": [
-    "Full-Stack Developer",
-    "Backend Engineer",
-    "Cloud Architect",
-    "Open Source Contributor"
+    "Senior Data Analyst",
+    "Product Analytics",
+    "User Behavior Analytics",
+    "A/B Testing & Experimentation",
+    "Forecasting & BI"
   ],
   "bootSequence": [
-    "[OK] Loading kernel modules...",
-    "[OK] Initializing network interfaces...",
-    "[OK] Mounting filesystems...",
-    "[OK] Starting SSH daemon...",
+    "[OK] Connecting to data warehouse...",
+    "[OK] Loading SQL query engine...",
+    "[OK] Initializing Python (Pandas, NumPy)...",
+    "[OK] Mounting Tableau dashboards...",
     "[OK] Loading portfolio data...",
     "[OK] System ready."
   ],
-  "techTags": ["Python", "TypeScript", "React", "Node.js", "AWS", "Docker"],
+  "techTags": ["SQL", "Python", "Tableau", "Power BI", "A/B Testing", "ETL"],
   "socialLinks": [
-    { "label": "GitHub", "url": "https://github.com/janedoe", "icon": "github" },
-    { "label": "LinkedIn", "url": "https://linkedin.com/in/janedoe", "icon": "linkedin" },
-    { "label": "Email", "url": "mailto:jane@example.com", "icon": "email" }
+    { "label": "GitHub", "url": "https://github.com/sunketasravan1999-code", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/sravan-b-a7a017417/", "icon": "linkedin" },
+    { "label": "Email", "url": "mailto:sravanai555@gmail.com", "icon": "email" }
   ],
-  "resumeUrl": "",
+  "resumeUrl": "assets/Sravan_Sunketa_Resume.pdf",
+  "metrics": [
+    { "value": "+12%", "label": "Watch Time @ Meta" },
+    { "value": "+18%", "label": "Forecast Accuracy @ Amazon" },
+    { "value": "$2M+", "label": "Lost Sales Prevented" }
+  ],
   "stats": {
     "experience": "5+ years",
-    "projects": 12,
-    "commits": "2,400+"
+    "platforms": "Meta · Amazon",
+    "scale": "2B+ daily events analyzed"
   }
 }

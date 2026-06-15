@@ -1,10 +1,10 @@
 {
-  "copyright": "Jane Doe",
+  "copyright": "Sravan Sunketa",
   "year": "2026",
-  "tagline": "Built with vanilla HTML/CSS/JS. No frameworks harmed.",
+  "tagline": "Senior Data Analyst — SQL, Python, Product & Growth Analytics.",
   "links": [
-    { "label": "GitHub", "url": "https://github.com/janedoe", "icon": "github" },
-    { "label": "LinkedIn", "url": "https://linkedin.com/in/janedoe", "icon": "linkedin" },
-    { "label": "Email", "url": "mailto:jane@example.com", "icon": "email" }
+    { "label": "GitHub", "url": "https://github.com/sunketasravan1999-code", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/sravan-b-a7a017417/", "icon": "linkedin" },
+    { "label": "Email", "url": "mailto:sravanai555@gmail.com", "icon": "email" }
   ]
 }

@@ -2,36 +2,40 @@
   "heading": "$ ps aux --sort=start_time",
   "positions": [
     {
-      "pid": "1337",
-      "company": "Acme Corp",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "startDate": "2022-01",
+      "pid": "2023",
+      "company": "Meta",
+      "logo": "meta",
+      "title": "Data Analyst",
+      "location": "USA",
+      "startDate": "2023-08",
       "endDate": "Present",
       "status": "RUNNING",
-      "description": "Leading development of microservices architecture serving 1M+ users. Migrated monolith to event-driven system reducing latency by 40%.",
+      "description": "Analyzed 2B+ daily Reels impressions, views, and watch-time events across Facebook and Instagram using SQL and Python, identifying engagement drivers that informed ranking improvements and lifting average watch time by 12%.",
       "achievements": [
-        "Architected real-time notification system handling 50K messages/min",
-        "Reduced CI/CD pipeline time from 45min to 12min",
-        "Mentored team of 4 junior developers"
+        "+6% watch time from 25+ large-scale A/B experiments per quarter, using hypothesis testing and causal analysis while protecting retention",
+        "+9% content-discovery CTR and +5% D30 retention from cohort analysis across 10+ user segments",
+        "40% faster analysis turnaround via scalable SQL/Python frameworks adopted across 5+ product teams; 15+ hrs/week of manual reporting eliminated with Tableau dashboards",
+        "+7% overall engagement across Reels and Feed from strategic recommendations that shaped 3 roadmap initiatives"
       ],
-      "technologies": ["Go", "PostgreSQL", "Kafka", "Kubernetes"]
+      "technologies": ["SQL", "Python", "Pandas", "NumPy", "Tableau", "A/B Testing", "ETL"]
     },
     {
-      "pid": "1024",
-      "company": "StartupXYZ",
-      "title": "Full-Stack Developer",
-      "location": "Remote",
-      "startDate": "2020-03",
-      "endDate": "2021-12",
+      "pid": "2020",
+      "company": "Amazon",
+      "logo": "amazon",
+      "title": "Data Analyst",
+      "location": "India",
+      "startDate": "2020-04",
+      "endDate": "2022-06",
       "status": "STOPPED",
-      "description": "Built and maintained the core product from prototype to production. Implemented real-time collaboration features and payment processing.",
+      "description": "Analyzed 50M+ sales, inventory, and fulfillment records using SQL and Python to identify demand patterns and category-level trends, improving category planning accuracy by 10%.",
       "achievements": [
-        "Shipped MVP in 8 weeks, acquiring 500 beta users",
-        "Built real-time collaborative editing with WebSocket",
-        "Integrated Stripe payment processing handling $200K MRR"
+        "$2M+ in lost sales prevented and 22% fewer stockouts via SQL frameworks flagging 5,000+ high-risk SKUs",
+        "+18% forecast accuracy from demand models using seasonality and promotional signals across high-volume segments",
+        "70% less manual reporting effort by automating forecasting in Python, cutting turnaround from days to hours",
+        "Informed $10M+ in inventory investment decisions; sustained 99%+ in-stock rate through a 30%+ Prime Day demand surge"
       ],
-      "technologies": ["React", "Node.js", "MongoDB", "Redis"]
+      "technologies": ["SQL", "Python", "Demand Forecasting", "Inventory Analytics", "BI"]
     }
   ]
 }

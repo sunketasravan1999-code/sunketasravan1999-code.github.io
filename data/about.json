@@ -1,13 +1,14 @@
 {
   "heading": "$ cat about.md",
   "bio": [
-    "I'm a passionate developer with expertise in building scalable web applications and distributed systems. I believe in clean code, thoughtful architecture, and continuous learning.",
-    "With experience across the full stack, I bring a unique perspective to every project — combining technical depth with a focus on user experience and performance."
+    "Senior Data Analyst with 5+ years of experience leveraging SQL, Python, statistical analysis, and business intelligence to drive decision-making across large-scale consumer and e-commerce platforms.",
+    "Proven record of delivering measurable impact — +12% watch time through recommendation analytics at Meta, +18% forecast accuracy and $2M+ in prevented lost sales at Amazon, and 60–70% reporting automation across both.",
+    "Expert in Product Analytics, A/B Testing, Forecasting, and Executive Dashboarding, partnering with cross-functional stakeholders to turn complex data into actions that improve engagement, revenue, and operational efficiency."
   ],
   "highlights": [
     { "label": "Years Experience", "value": "5+" },
-    { "label": "Projects Completed", "value": "12+" },
-    { "label": "Technologies", "value": "20+" }
+    { "label": "Watch Time Lift", "value": "+12%" },
+    { "label": "Lost Sales Prevented", "value": "$2M+" }
   ],
-  "currentFocus": "Building high-performance web applications with modern tooling"
+  "currentFocus": "Turning billions of user interactions into product and growth decisions"
 }
