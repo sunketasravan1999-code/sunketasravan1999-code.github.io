@@ -2,34 +2,49 @@
   "heading": "$ ls -la skills/",
   "categories": [
     {
-      "name": "core_analytics",
+      "name": "agentic_ai",
       "permissions": "drwxr-xr-x",
-      "items": ["SQL", "Advanced SQL", "Python (Pandas, NumPy)", "Product Analytics", "User Behavior Analytics", "Engagement Analytics"]
+      "items": ["AI Agents", "Multi-Agent Systems", "Agent Orchestration", "LangChain", "LangGraph", "Tool Calling", "Function Calling", "MCP"]
     },
     {
-      "name": "experimentation",
+      "name": "genai_llms",
       "permissions": "drwxr-xr-x",
-      "items": ["A/B Testing", "Experiment Design", "Hypothesis Testing", "Causal Analysis", "Metric Development", "Statistical Analysis"]
+      "items": ["Generative AI", "LLMs", "Transformer Models", "Prompt Engineering", "Context Engineering", "Embeddings"]
     },
     {
-      "name": "growth_analytics",
+      "name": "rag_retrieval",
       "permissions": "drwxr-xr-x",
-      "items": ["Retention Analysis", "Funnel Analysis", "Cohort Analysis", "KPI Development", "Customer Analytics", "Predictive Analytics"]
+      "items": ["RAG", "Context Grounding", "Vector Databases", "Vector Search", "Semantic Search", "Information Retrieval", "Reranking"]
     },
     {
-      "name": "visualization_bi",
+      "name": "ai_evaluation",
       "permissions": "drwxr-xr-x",
-      "items": ["Tableau", "Power BI", "Dashboard Development", "KPI Dashboards", "Executive Reporting", "Automated Reporting"]
+      "items": ["LLM Evaluation", "Agent Evaluation", "RAG Evaluation", "LLM-as-a-Judge", "HITL", "Adversarial Testing", "Regression Testing", "Hallucination Detection"]
+    },
+    {
+      "name": "machine_learning",
+      "permissions": "drwxr-xr-x",
+      "items": ["Python", "SQL", "Machine Learning", "Deep Learning", "Neural Networks", "Predictive Modeling", "Regression", "NLP", "Feature Engineering", "Model Evaluation", "Model Optimization"]
+    },
+    {
+      "name": "ml_frameworks",
+      "permissions": "drwxr-xr-x",
+      "items": ["PyTorch", "TensorFlow", "scikit-learn", "Hugging Face", "MLflow", "PySpark", "Apache Spark", "CUDA", "GPU Computing"]
+    },
+    {
+      "name": "mlops_llmops",
+      "permissions": "drwxr-xr-x",
+      "items": ["MLOps", "LLMOps", "ML Pipelines", "Model Deployment", "Model Serving", "Model Monitoring", "Experiment Tracking", "Model Versioning", "Continuous Evaluation", "AI Observability"]
+    },
+    {
+      "name": "cloud_deployment",
+      "permissions": "drwxr-xr-x",
+      "items": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "CI/CD", "Distributed Systems", "Scalable AI Infrastructure"]
     },
     {
       "name": "data_engineering",
       "permissions": "drwxr-xr-x",
-      "items": ["Data Modeling", "ETL", "Data Pipelines", "Data Warehousing", "Feature Engineering", "Query Optimization"]
-    },
-    {
-      "name": "forecasting_ops",
-      "permissions": "drwxr-xr-x",
-      "items": ["Demand Forecasting", "Inventory Analytics", "Supply Chain Analytics", "Forecast Performance Analysis", "Operations Analytics"]
+      "items": ["Data Pipelines", "ETL/ELT", "Data Processing", "Data Transformation", "Data Quality", "Data Validation", "Batch Processing", "Real-Time Processing"]
     }
   ],
   "githubUsername": "sunketasravan1999-code"

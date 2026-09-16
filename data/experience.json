@@ -2,40 +2,43 @@
   "heading": "$ ps aux --sort=start_time",
   "positions": [
     {
-      "pid": "2023",
-      "company": "Meta",
-      "logo": "meta",
-      "title": "Data Analyst",
-      "location": "USA",
-      "startDate": "2023-08",
+      "pid": "2025",
+      "company": "Scale AI",
+      "logo": "",
+      "title": "AI/ML Engineer",
+      "location": "Los Angeles, CA",
+      "startDate": "2025-01",
       "endDate": "Present",
       "status": "RUNNING",
-      "description": "Analyzed 2B+ daily Reels impressions, views, and watch-time events across Facebook and Instagram using SQL and Python, identifying engagement drivers that informed ranking improvements and lifting average watch time by 12%.",
+      "description": "Designed and built Agentic AI and multi-agent systems in Python using LLMs for complex planning, analysis, and decision-support use cases, coordinating 5 specialized agents across 12 production workflows to run parallel analysis, critique proposed plans, and consolidate findings into a single recommendation.",
       "achievements": [
-        "+6% watch time from 25+ large-scale A/B experiments per quarter, using hypothesis testing and causal analysis while protecting retention",
-        "+9% content-discovery CTR and +5% D30 retention from cohort analysis across 10+ user segments",
-        "40% faster analysis turnaround via scalable SQL/Python frameworks adopted across 5+ product teams; 15+ hrs/week of manual reporting eliminated with Tableau dashboards",
-        "+7% overall engagement across Reels and Feed from strategic recommendations that shaped 3 roadmap initiatives"
+        "Engineered agent orchestration pipelines with LangChain and LangGraph to route tasks, manage state, and coordinate 15+ integrated tools and APIs through function calling",
+        "12% lower hallucination rate from RAG and context-grounding pipelines over 75K+ indexed documents using vector and semantic search",
+        "+10% response-quality scores from LLM, agent, and RAG evaluation workflows with LLM-as-a-judge scoring across 40+ scenarios, catching regressions before production",
+        "25% less expert review time per output via human-in-the-loop validation that fed structured feedback into iterative agent improvement",
+        "Built 150+ adversarial and regression test cases, turning every confirmed failure into a permanent regression case so the same defect could not ship twice",
+        "Shipped production AI services behind REST APIs, containerized with Docker and run with LLMOps practices across CI/CD, monitoring, and AI observability"
       ],
-      "technologies": ["SQL", "Python", "Pandas", "NumPy", "Tableau", "A/B Testing", "ETL"]
+      "technologies": ["Python", "LangChain", "LangGraph", "LLMs", "RAG", "Vector Search", "LLM-as-a-Judge", "Docker", "LLMOps"]
     },
     {
-      "pid": "2020",
-      "company": "Amazon",
-      "logo": "amazon",
-      "title": "Data Analyst",
+      "pid": "2019",
+      "company": "Infosys",
+      "logo": "",
+      "title": "Machine Learning Engineer",
       "location": "India",
-      "startDate": "2020-04",
-      "endDate": "2022-06",
+      "startDate": "2019-08",
+      "endDate": "2023-01",
       "status": "STOPPED",
-      "description": "Analyzed 50M+ sales, inventory, and fulfillment records using SQL and Python to identify demand patterns and category-level trends, improving category planning accuracy by 10%.",
+      "description": "Built machine learning solutions for transportation and logistics spot-market pricing, replacing manual quoting with data-driven freight price recommendations for the pricing business.",
       "achievements": [
-        "$2M+ in lost sales prevented and 22% fewer stockouts via SQL frameworks flagging 5,000+ high-risk SKUs",
-        "+18% forecast accuracy from demand models using seasonality and promotional signals across high-volume segments",
-        "70% less manual reporting effort by automating forecasting in Python, cutting turnaround from days to hours",
-        "Informed $10M+ in inventory investment decisions; sustained 99%+ in-stock rate through a 30%+ Prime Day demand surge"
+        "$300K+ in annual savings and +7% bid-win rate from production ML pricing solutions delivered with data engineers, developers, and business stakeholders",
+        "15% lower pricing prediction error on held-out validation data through hyperparameter tuning and feature refinement",
+        "Engineered features from shipment distance, origin-destination pairs, load characteristics, historical pricing, fuel prices, and seasonality",
+        "Integrated predictions into downstream business systems through APIs, enabling automated pricing recommendations for new shipments",
+        "Monitored model outputs and data quality in production to detect unusual predictions, data drift, and performance degradation"
       ],
-      "technologies": ["SQL", "Python", "Demand Forecasting", "Inventory Analytics", "BI"]
+      "technologies": ["Python", "SQL", "scikit-learn", "Regression Models", "Feature Engineering", "REST APIs", "Model Monitoring"]
     }
   ]
 }

@@ -9,35 +9,63 @@
   "name": "Sravan Sunketa",
   "tagline": "Open to opportunities",
   "roles": [
-    "Senior Data Analyst",
-    "Product Analytics",
-    "User Behavior Analytics",
-    "A/B Testing & Experimentation",
-    "Forecasting & BI"
+    "AI/ML Engineer",
+    "Agentic AI & Multi-Agent Systems",
+    "LLMs & RAG",
+    "LLM Evaluation & Reliability",
+    "MLOps & LLMOps"
   ],
   "bootSequence": [
-    "[OK] Connecting to data warehouse...",
-    "[OK] Loading SQL query engine...",
-    "[OK] Initializing Python (Pandas, NumPy)...",
-    "[OK] Mounting Tableau dashboards...",
+    "[OK] Loading LLM runtime...",
+    "[OK] Initializing LangGraph agent orchestrator...",
+    "[OK] Connecting vector store...",
+    "[OK] Running evaluation suite...",
     "[OK] Loading portfolio data...",
     "[OK] System ready."
   ],
-  "techTags": ["SQL", "Python", "Tableau", "Power BI", "A/B Testing", "ETL"],
+  "techTags": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "PyTorch",
+    "Docker"
+  ],
   "socialLinks": [
-    { "label": "GitHub", "url": "https://github.com/sunketasravan1999-code", "icon": "github" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/sravan-b-a7a017417/", "icon": "linkedin" },
-    { "label": "Email", "url": "mailto:sravanai555@gmail.com", "icon": "email" }
+    {
+      "label": "GitHub",
+      "url": "https://github.com/sunketasravan1999-code",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sravan-s-26a175389/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:ssrav641@gmail.com",
+      "icon": "email"
+    }
   ],
   "resumeUrl": "assets/Sravan_Sunketa_Resume.pdf",
   "metrics": [
-    { "value": "+12%", "label": "Watch Time @ Meta" },
-    { "value": "+18%", "label": "Forecast Accuracy @ Amazon" },
-    { "value": "$2M+", "label": "Lost Sales Prevented" }
+    {
+      "value": "-12%",
+      "label": "Hallucination Rate @ Scale AI"
+    },
+    {
+      "value": "+10%",
+      "label": "Response Quality @ Scale AI"
+    },
+    {
+      "value": "$300K+",
+      "label": "Annual Savings @ Infosys"
+    }
   ],
   "stats": {
     "experience": "5+ years",
-    "platforms": "Meta · Amazon",
-    "scale": "2B+ daily events analyzed"
+    "platforms": "Scale AI · Infosys",
+    "scale": "75K+ documents indexed for RAG"
   }
 }
